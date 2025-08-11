@@ -1,0 +1,6694 @@
+Data: 27/11/2022 23:23:2:1174
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:2:1182
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:2:1196
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: CEP
+
+Data: 27/11/2022 23:23:2:1180
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Nome: Vazio; Endereco: Vazio; Data nascimento: Vazio; CPF: Vazio; Email: Vazio; Matricula: Vazio; Status: Vazio
+Info Alterada, depois: Nome: Vini Jr; Endereco: 31340380; Data nascimento: 30/6/2002 0:0:0:0; CPF: 17372418704; Email: viniJr@gmail.com; Matricula: 2021070888; Status: 0
+
+Data: 27/11/2022 23:23:2:1202
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:2:1206
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:2:1211
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: CEP
+
+Data: 27/11/2022 23:23:2:1205
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Nome: Vazio; Endereco: Vazio; Data nascimento: Vazio; CPF: Vazio; Email: Vazio; Matricula: Vazio; Status: Vazio
+Info Alterada, depois: Nome: Richarlison; Endereco: 31340380; Data nascimento: 30/6/2002 0:0:0:0; CPF: 15287531605; Email: pombo@gmail.com; Matricula: 2021013604; Status: 0
+
+Data: 27/11/2022 23:23:2:1214
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:2:1218
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:2:1223
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: CEP
+
+Data: 27/11/2022 23:23:2:1217
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Nome: Vazio; Endereco: Vazio; Data nascimento: Vazio; CPF: Vazio; Email: Vazio; Matricula: Vazio; Status: Vazio
+Info Alterada, depois: Nome: Antony; Endereco: 31545170; Data nascimento: 30/6/2002 0:0:0:0; CPF: 13820119701; Email: antony@gmail.com; Matricula: 2021019335; Status: 0
+
+Data: 27/11/2022 23:23:2:1227
+Usuario: Fenomeno
+Entidade: Cargo
+Info Alterada, antes: Nome: Vazio
+Info Alterada, depois: Nome: Jogador
+
+Data: 27/11/2022 23:23:2:1235
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1231
+Usuario: Fenomeno
+Entidade: Contrato
+Info Alterada, antes: Data admissao: Vazio; Cargo: Vazio; Salario inicial: Vazio
+Info Alterada, depois: Data admissao: 27/11/2022 23:23:2:1229Cargo: Jogador Salario inicial: 5000.000000
+
+Data: 27/11/2022 23:23:2:1242
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1239
+Usuario: Fenomeno
+Entidade: Contrato
+Info Alterada, antes: Data admissao: Vazio; Cargo: Vazio; Salario inicial: Vazio
+Info Alterada, depois: Data admissao: 27/11/2022 23:23:2:1229Cargo: Jogador Salario inicial: 5000.000000
+
+Data: 27/11/2022 23:23:2:1248
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1246
+Usuario: Fenomeno
+Entidade: Contrato
+Info Alterada, antes: Data admissao: Vazio; Cargo: Vazio; Salario inicial: Vazio
+Info Alterada, depois: Data admissao: 27/11/2022 23:23:2:1229Cargo: Jogador Salario inicial: 5000.000000
+
+Data: 27/11/2022 23:23:2:1253
+Usuario: Fenomeno
+Entidade: Cargo
+Info Alterada, antes: Nome: Vazio
+Info Alterada, depois: Nome: Auxiliar Tecnico
+
+Data: 27/11/2022 23:23:2:1259
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1256
+Usuario: Fenomeno
+Entidade: Contrato
+Info Alterada, antes: Data admissao: Vazio; Cargo: Vazio; Salario inicial: Vazio
+Info Alterada, depois: Data admissao: 27/11/2022 23:23:2:1255Cargo: Auxiliar Tecnico Salario inicial: 10000.000000
+
+Data: 27/11/2022 23:23:2:1265
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1269
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Salario Atual
+
+Data: 27/11/2022 23:23:2:1272
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Cargo
+
+Data: 27/11/2022 23:23:2:1274
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1276
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1263
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Data: Vazio; Cargo: Vazio; Salario: Vazio
+Info Alterada, depois: Data: 27/11/2022 23:23:2:1229Cargo: JogadorSalario: 5000.000000
+
+Data: 27/11/2022 23:23:2:1288
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1290
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Salario Atual
+
+Data: 27/11/2022 23:23:2:1292
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Cargo
+
+Data: 27/11/2022 23:23:2:1294
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1296
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1286
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Data: Vazio; Cargo: Vazio; Salario: Vazio
+Info Alterada, depois: Data: 27/11/2022 23:23:2:1229Cargo: JogadorSalario: 5000.000000
+
+Data: 27/11/2022 23:23:2:1302
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1304
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Salario Atual
+
+Data: 27/11/2022 23:23:2:1307
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Cargo
+
+Data: 27/11/2022 23:23:2:1308
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1310
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1300
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Data: Vazio; Cargo: Vazio; Salario: Vazio
+Info Alterada, depois: Data: 27/11/2022 23:23:2:1229Cargo: JogadorSalario: 5000.000000
+
+Data: 27/11/2022 23:23:2:1318
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Desligamento
+
+Data: 27/11/2022 23:23:2:1320
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1322
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1324
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1326
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Salario Atual
+
+Data: 27/11/2022 23:23:2:1328
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Cargo
+
+Data: 27/11/2022 23:23:2:1330
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1334
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1336
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Salario Atual
+
+Data: 27/11/2022 23:23:2:1339
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Cargo
+
+Data: 27/11/2022 23:23:2:1340
+Usuario: Fenomeno
+Entidade: Cargo
+Info Acessada: Nome 
+
+Data: 27/11/2022 23:23:2:1387
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Admissao
+
+Data: 27/11/2022 23:23:2:1316
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Data: Vazio; Cargo: Vazio; Salario: Vazio
+Info Alterada, depois: Data: 27/11/2022 23:23:2:1255Cargo: Auxiliar TecnicoSalario: 10000.000000
+
+Data: 27/11/2022 23:23:2:1399
+Usuario: Fenomeno
+Entidade: Departamento
+Info Alterada, antes: Nome: Vazio
+Info Alterada, depois: Nome: Concentracao
+
+Data: 27/11/2022 23:23:2:1403
+Usuario: Fenomeno
+Entidade: Departamento
+Info Acessada: nome departamento
+
+Data: 27/11/2022 23:23:2:1406
+Usuario: Fenomeno
+Entidade: Departamento
+Info Acessada: nome departamento
+
+Data: 27/11/2022 23:23:2:1401
+Usuario: Fenomeno
+Entidade: Empresa
+Info Alterada, antes: Departamento: Vazio
+Info Alterada, depois: 1 - Departamento: Concentracao; 
+
+Data: 27/11/2022 23:23:2:1414
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:1416
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:1420
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Departamento Concentracao
+
+Data: 27/11/2022 23:23:2:1412
+Usuario: Fenomeno
+Entidade: Departamento
+Info Alterada, antes: funcionario: Vazio
+Info Alterada, depois: 1 - Funcionario: Vini Jr; 
+
+Data: 27/11/2022 23:23:2:1426
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:1428
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:1430
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Departamento Concentracao
+
+Data: 27/11/2022 23:23:2:1423
+Usuario: Fenomeno
+Entidade: Departamento
+Info Alterada, antes: 1 - Funcionario: Vini Jr; 
+Info Alterada, depois: 1 - Funcionario: Richarlison; 1 - Funcionario: Vini Jr; 
+
+Data: 27/11/2022 23:23:2:1438
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:1440
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:1442
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Departamento Concentracao
+
+Data: 27/11/2022 23:23:2:1435
+Usuario: Fenomeno
+Entidade: Departamento
+Info Alterada, antes: 1 - Funcionario: Richarlison; 1 - Funcionario: Vini Jr; 
+Info Alterada, depois: 1 - Funcionario: Antony; 1 - Funcionario: Richarlison; 1 - Funcionario: Vini Jr; 
+
+Data: 27/11/2022 23:23:2:1469
+Usuario: Fenomeno
+Entidade: Departamento
+Info Acessada: Funcionarios do Departamento
+
+Data: 27/11/2022 23:23:2:1516
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Desligamento
+
+Data: 27/11/2022 23:23:2:1521
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Desligamento
+
+Data: 27/11/2022 23:23:2:1558
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Desligamento
+
+Data: 27/11/2022 23:23:2:1498
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: printContratos
+
+Data: 27/11/2022 23:23:2:1621
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Desligamento
+
+Data: 27/11/2022 23:23:2:1592
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: printContratos
+
+Data: 27/11/2022 23:23:2:1659
+Usuario: Fenomeno
+Entidade: Contrato
+Info Acessada: Data Desligamento
+
+Data: 27/11/2022 23:23:2:1647
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: printContratos
+
+Data: 27/11/2022 23:23:2:1687
+Usuario: Fenomeno
+Entidade: Cliente_Cliente
+Info Alterada, antes: Vazio
+Info Alterada, depois: Construida
+
+Data: 27/11/2022 23:23:2:1693
+Usuario: Fenomeno
+Entidade: PessoaFisica_PessoaFisica
+Info Alterada, antes: Vazio;
+Info Alterada, depois: Construido
+
+Data: 27/11/2022 23:23:2:1699
+Usuario: Fenomeno
+Entidade: Cliente_Cliente
+Info Alterada, antes: Vazio
+Info Alterada, depois: Construida
+
+Data: 27/11/2022 23:23:2:1704
+Usuario: Fenomeno
+Entidade: PessoaJuridica_PessoaJuridica
+Info Alterada, antes: Vazio
+Info Alterada, depois: Construido
+
+Data: 27/11/2022 23:23:2:1763
+Usuario: Fenomeno
+Entidade: Cliente_getNome
+Info Acessada: nome_
+
+Data: 27/11/2022 23:23:2:1766
+Usuario: Fenomeno
+Entidade: Cliente_getNome
+Info Acessada: nome_
+
+Data: 27/11/2022 23:23:2:1760
+Usuario: Fenomeno
+Entidade: Empresa
+Info Alterada, antes: Cliente: Vazio
+Info Alterada, depois: 1 - cliente: Ronaldinho; 
+
+Data: 27/11/2022 23:23:2:1776
+Usuario: Fenomeno
+Entidade: Cliente_getNome
+Info Acessada: nome_
+
+Data: 27/11/2022 23:23:2:1779
+Usuario: Fenomeno
+Entidade: Cliente_getNome
+Info Acessada: nome_
+
+Data: 27/11/2022 23:23:2:1774
+Usuario: Fenomeno
+Entidade: Empresa
+Info Alterada, antes: 1 - Cliente: Ronaldinho; 
+Info Alterada, depois: 1 - cliente: Clube de Regatas Flamengo; 1 - cliente: Ronaldinho; 
+
+Data: 27/11/2022 23:23:2:1784
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Clientes da Empresa
+
+Data: 27/11/2022 23:23:2:1815
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor Nike cadastrado
+
+Data: 27/11/2022 23:23:2:1833
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor Adidas cadastrado
+
+Data: 27/11/2022 23:23:2:1848
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:1846
+Usuario: Fenomeno
+Entidade: Empresa
+Info Alterada, antes: Fornecedor: Vazio
+Info Alterada, depois: 1 - Fornecedor: Nike; 
+
+Data: 27/11/2022 23:23:2:1856
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:1854
+Usuario: Fenomeno
+Entidade: Empresa
+Info Alterada, antes: 1 - Fornecedor: Nike; 
+Info Alterada, depois: 1 - Fornecedor: Adidas; 1 - Fornecedor: Nike; 
+
+Data: 27/11/2022 23:23:2:1864
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Madeira construida
+
+Data: 27/11/2022 23:23:2:1867
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Plastico construida
+
+Data: 27/11/2022 23:23:2:1869
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Aluminio construida
+
+Data: 27/11/2022 23:23:2:1871
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Parafuso construida
+
+Data: 27/11/2022 23:23:2:1875
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Madeira adicionada para Nike
+
+Data: 27/11/2022 23:23:2:1873
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor adicionado para Madeira
+
+Data: 27/11/2022 23:23:2:1881
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Madeira adicionada para Adidas
+
+Data: 27/11/2022 23:23:2:1879
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor adicionado para Madeira
+
+Data: 27/11/2022 23:23:2:1885
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Plastico adicionada para Nike
+
+Data: 27/11/2022 23:23:2:1883
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor adicionado para Plastico
+
+Data: 27/11/2022 23:23:2:1890
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Plastico adicionada para Adidas
+
+Data: 27/11/2022 23:23:2:1888
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor adicionado para Plastico
+
+Data: 27/11/2022 23:23:2:1894
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Aluminio adicionada para Nike
+
+Data: 27/11/2022 23:23:2:1893
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor adicionado para Aluminio
+
+Data: 27/11/2022 23:23:2:1898
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Aluminio adicionada para Adidas
+
+Data: 27/11/2022 23:23:2:1897
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor adicionado para Aluminio
+
+Data: 27/11/2022 23:23:2:1903
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Parafuso adicionada para Nike
+
+Data: 27/11/2022 23:23:2:1901
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor adicionado para Parafuso
+
+Data: 27/11/2022 23:23:2:1907
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: materia prima Parafuso adicionada para Adidas
+
+Data: 27/11/2022 23:23:2:1905
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: fornecedor adicionado para Parafuso
+
+Data: 27/11/2022 23:23:2:1912
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:1915
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:1939
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getEstoqueMin
+
+Data: 27/11/2022 23:23:2:1941
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:1944
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:1948
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:1965
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:1951
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:1968
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:1970
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:1993
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:1973
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:1995
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:1999
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:2002
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:1997
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:2012
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:2015
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2018
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:1947
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Madeira
+
+Data: 27/11/2022 23:23:2:2023
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:1910
+Usuario: Fenomeno
+Entidade: Estoque
+Info Alterada, antes: Materia Prima: Vazio;
+Info Alterada, depois: 1 - Materia Prima: Madeira; 
+
+Data: 27/11/2022 23:23:2:2029
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2032
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2051
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getEstoqueMin
+
+Data: 27/11/2022 23:23:2:2053
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:2055
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:2060
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2076
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:2062
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:2078
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:2081
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2102
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:2082
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:2104
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:2108
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:2110
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:2106
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:2113
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:2116
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2117
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:2059
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Plastico
+
+Data: 27/11/2022 23:23:2:2121
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2028
+Usuario: Fenomeno
+Entidade: Estoque
+Info Alterada, antes: 1 - Materia Prima: Madeira; 
+Info Alterada, depois: 1 - Materia Prima: Madeira; 1 - Materia Prima: Plastico; 
+
+Data: 27/11/2022 23:23:2:2126
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2129
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2149
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getEstoqueMin
+
+Data: 27/11/2022 23:23:2:2151
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:2153
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:2156
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2173
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:2159
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:2175
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:2178
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2199
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:2180
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:2201
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:2205
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:2207
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:2203
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:2212
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:2214
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2216
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:2155
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Aluminio
+
+Data: 27/11/2022 23:23:2:2219
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2124
+Usuario: Fenomeno
+Entidade: Estoque
+Info Alterada, antes: 1 - Materia Prima: Madeira; 1 - Materia Prima: Plastico; 
+Info Alterada, depois: 1 - Materia Prima: Aluminio; 1 - Materia Prima: Madeira; 1 - Materia Prima: Plastico; 
+
+Data: 27/11/2022 23:23:2:2225
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2228
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2247
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getEstoqueMin
+
+Data: 27/11/2022 23:23:2:2248
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:2250
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:2254
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2271
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:2257
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:2273
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:2275
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2296
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:2277
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:2299
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:2303
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:2305
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:2301
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:2308
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:2310
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:2312
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 20.000000
+
+Data: 27/11/2022 23:23:2:2253
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Parafuso
+
+Data: 27/11/2022 23:23:2:2316
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2223
+Usuario: Fenomeno
+Entidade: Estoque
+Info Alterada, antes: 1 - Materia Prima: Aluminio; 1 - Materia Prima: Madeira; 1 - Materia Prima: Plastico; 
+Info Alterada, depois: 1 - Materia Prima: Aluminio; 1 - Materia Prima: Madeira; 1 - Materia Prima: Parafuso; 1 - Materia Prima: Plastico; 
+
+Data: 27/11/2022 23:23:2:2345
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2353
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2377
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2382
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2384
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2405
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2409
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2419
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2445
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2415
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: printFornecedores
+
+Data: 27/11/2022 23:23:2:2474
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2477
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2480
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2483
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2485
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2507
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2537
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2487
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: printFornecedores
+
+Data: 27/11/2022 23:23:2:2544
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2546
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2548
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2569
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2575
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2581
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2609
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2578
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: printFornecedores
+
+Data: 27/11/2022 23:23:2:2618
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2620
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2623
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2627
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2629
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2634
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2639
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2632
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: printFornecedores
+
+Data: 27/11/2022 23:23:2:2665
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2669
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2671
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2693
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2697
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2746
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2725
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2700
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: printOrdensCompra
+
+Data: 27/11/2022 23:23:2:2759
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2761
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2764
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2784
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2787
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2811
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2798
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2791
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: printOrdensCompra
+
+Data: 27/11/2022 23:23:2:2829
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2837
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2843
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2871
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2882
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2924
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2909
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2886
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: printOrdensCompra
+
+Data: 27/11/2022 23:23:2:2937
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2940
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2943
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:2967
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:2972
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: Materia Prima
+
+Data: 27/11/2022 23:23:2:2997
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2984
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: printDados
+
+Data: 27/11/2022 23:23:2:2975
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: printOrdensCompra
+
+Data: 27/11/2022 23:23:2:3015
+Usuario: Fenomeno
+Entidade: Categoria
+Info Alterada, antes: Nome: Vazio
+Info Alterada, depois: Nome: moveis
+
+Data: 27/11/2022 23:23:2:3020
+Usuario: Fenomeno
+Entidade: Categoria
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:3023
+Usuario: Fenomeno
+Entidade: Categoria
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:3019
+Usuario: Fenomeno
+Entidade: Estoque
+Info Alterada, antes: Categorias: Vazio;
+Info Alterada, depois: 1 - Categoria: moveis; 
+
+Data: 27/11/2022 23:23:2:3030
+Usuario: Fenomeno
+Entidade: Preco
+Info Alterada, antes: Data_alteracao: Vazio; Novo_valor: Vazio;
+Info Alterada, depois: Data_alteracao: 27/11/2022 23:23:2:3029; Novo_valor: 1500.000000;
+
+Data: 27/11/2022 23:23:2:3056
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:2:3060
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:3063
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:3065
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:3067
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:3050
+Usuario: Fenomeno
+Entidade: Produto
+Info Alterada, antes: Tamanho min lote: Vazio; Nome: Vazio; Codigo: Vazio; Preco Venda: Vazio; Data criacao: Vazio; Estoque minimo: Vazio; Quantidade atual: Vazio; Materias Primas: Vazio
+Info Alterada, depois: Tamanho min lote: 10;Nome: Mesa; Codigo: 5; Preco Venda: 1500.000000; Data criacao: 27/11/2022 23:23:2:3053; Estoque minimo: 20; Quantidade atual: 0; Materias Primas: Madeira, Plastico, Aluminio, Parafuso, ;
+
+Data: 27/11/2022 23:23:2:3071
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Nome
+
+Data: 27/11/2022 23:23:2:3096
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: EstoqueMin
+
+Data: 27/11/2022 23:23:2:3101
+Usuario: Fenomeno
+Entidade: Lote
+Info Alterada, antes: Data Produçao: Vazio; Num Lote: Vazio; Qtd Produzida: Vazio; Qtd Atual: Vazio
+Info Alterada, depois: DataProducao: 27/11/2022 23:23:2:3074; Num Lote: 3085; Qtd Produzida: ; Qtd Atual: 20;
+
+Data: 27/11/2022 23:23:2:3108
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Data Producao
+
+Data: 27/11/2022 23:23:2:3110
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3113
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Alterada, antes: Prod_alvo: Vazio; Data_ordem: Vazio; Codigo: Vazio; Quantidade Produzida: Vazio;
+Info Alterada, depois: Prod_alvo: Mesa; Data_ordem: 27/11/2022 23:23:2:3074; Codigo: 461;Quantidade Produzida:20;
+
+Data: 27/11/2022 23:23:2:3121
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:3125
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:3154
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:3161
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:3118
+Usuario: Fenomeno
+Entidade: Produto
+Info Alterada, antes: Ordem Producao: Vazio
+Info Alterada, depois:  - Ordem Producao: 461; 
+
+Data: 27/11/2022 23:23:2:3166
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3214
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3221
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:3223
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:3226
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:3230
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3249
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:3233
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:3252
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3255
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3276
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:3257
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:3278
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3284
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3286
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3282
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:3288
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:3292
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3294
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 9.000000
+
+Data: 27/11/2022 23:23:2:3228
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Madeira
+
+Data: 27/11/2022 23:23:2:3298
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3300
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 9.000000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:3304
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:3308
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3331
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:3311
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:3333
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3335
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3351
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:3337
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:3353
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3357
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3359
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3355
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:3361
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:3365
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3367
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:3306
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Madeira
+
+Data: 27/11/2022 23:23:2:3370
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3403
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3405
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:3407
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:3409
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:3413
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3428
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:3415
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:3432
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3434
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3455
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:3436
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:3457
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3461
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3463
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3460
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:3465
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:3468
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3470
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 3.000000
+
+Data: 27/11/2022 23:23:2:3411
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Plastico
+
+Data: 27/11/2022 23:23:2:3479
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3481
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 3.000000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:3486
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:3491
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3516
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:3493
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:3519
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3521
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3537
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:3523
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:3541
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3545
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3547
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3543
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:3549
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:3552
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3554
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:3489
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Plastico
+
+Data: 27/11/2022 23:23:2:3557
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3583
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3585
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:3588
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:3590
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:3594
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3609
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:3596
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:3612
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3614
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3635
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:3616
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:3637
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3642
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3644
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3641
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:3646
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:3649
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3651
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 2.000000
+
+Data: 27/11/2022 23:23:2:3592
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Aluminio
+
+Data: 27/11/2022 23:23:2:3654
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3656
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 2.000000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:3660
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:3663
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3685
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:3665
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:3687
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3689
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3705
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:3691
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:3707
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3711
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3713
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3709
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:3715
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:3719
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3720
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:3662
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Aluminio
+
+Data: 27/11/2022 23:23:2:3724
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3786
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3790
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:3792
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:3794
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:3798
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3815
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:3800
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:3820
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3823
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3844
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:3825
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:3846
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3850
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3852
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3849
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:3854
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:3858
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3860
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 20.000000
+Info Alterada, depois: qtd_atual_: 160.000000
+
+Data: 27/11/2022 23:23:2:3796
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Parafuso
+
+Data: 27/11/2022 23:23:2:3866
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3868
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 160.000000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:3872
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:3875
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3896
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:3877
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:3899
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3901
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3916
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:3903
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:3920
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:3924
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3925
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:3922
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:3928
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:3930
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:3932
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 20.000000
+
+Data: 27/11/2022 23:23:2:3874
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Parafuso
+
+Data: 27/11/2022 23:23:2:3938
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:3941
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:3106
+Usuario: Fenomeno
+Entidade: Produto
+Info Alterada, antes: Qtd produto: 0; Lotes Ativos: Vazio;
+Info Alterada, depois: Qtd produto: 20; 1 - Lote Ativo: 3085; 
+
+Data: 27/11/2022 23:23:2:3069
+Usuario: Fenomeno
+Entidade: Categoria
+Info Alterada, antes: Produto: Vazio
+Info Alterada, depois: 1 - Produto: Mesa; 
+
+Data: 27/11/2022 23:23:2:4000
+Usuario: Fenomeno
+Entidade: Lote
+Info Alterada, antes: Data Produçao: Vazio; Num Lote: Vazio; Qtd Produzida: Vazio; Qtd Atual: Vazio
+Info Alterada, depois: DataProducao: 27/11/2022 23:23:2:3980; Num Lote: 177; Qtd Produzida: ; Qtd Atual: 25;
+
+Data: 27/11/2022 23:23:2:4019
+Usuario: Fenomeno
+Entidade: Lote
+Info Alterada, antes: Data Produçao: Vazio; Num Lote: Vazio; Qtd Produzida: Vazio; Qtd Atual: Vazio
+Info Alterada, depois: DataProducao: 27/11/2022 23:23:2:4007; Num Lote: 312; Qtd Produzida: ; Qtd Atual: 25;
+
+Data: 27/11/2022 23:23:2:4024
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:2:4050
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:4054
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:4060
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:4064
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:4066
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:4068
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:4090
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:4097
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:4101
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:4125
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:4129
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:4133
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:4159
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Data Producao
+
+Data: 27/11/2022 23:23:2:4161
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4163
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Alterada, antes: Prod_alvo: Vazio; Data_ordem: Vazio; Codigo: Vazio; Quantidade Produzida: Vazio;
+Info Alterada, depois: Prod_alvo: Mesa; Data_ordem: 27/11/2022 23:23:2:3980; Codigo: 462;Quantidade Produzida:25;
+
+Data: 27/11/2022 23:23:2:4171
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:4174
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:4177
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:4200
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:4208
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:4211
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:4169
+Usuario: Fenomeno
+Entidade: Produto
+Info Alterada, antes: - Ordem Producao: 461; 
+Info Alterada, depois:  - Ordem Producao: 461;  - Ordem Producao: 462; 
+
+Data: 27/11/2022 23:23:2:4214
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4244
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4246
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:4248
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:4250
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:4254
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4270
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:4256
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:4273
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4278
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4299
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:4279
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:4301
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4305
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4307
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4304
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:4309
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:4313
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4314
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 11.250000
+
+Data: 27/11/2022 23:23:2:4253
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Madeira
+
+Data: 27/11/2022 23:23:2:4321
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4323
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 11.250000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:4327
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:4331
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4352
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:4332
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:4354
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4357
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4372
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:4358
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:4384
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4387
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4389
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4386
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:4391
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:4394
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4396
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:4329
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Madeira
+
+Data: 27/11/2022 23:23:2:4399
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4424
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4426
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:4433
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:4436
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:4439
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4455
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:4441
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:4457
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4459
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4482
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:4461
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:4484
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4488
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4490
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4487
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:4494
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:4496
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4498
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 3.750000
+
+Data: 27/11/2022 23:23:2:4438
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Plastico
+
+Data: 27/11/2022 23:23:2:4501
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4503
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 3.750000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:4507
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:4510
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4531
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:4512
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:4535
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4537
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4554
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:4539
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:4556
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4560
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4562
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4558
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:4564
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:4566
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4570
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:4509
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Plastico
+
+Data: 27/11/2022 23:23:2:4573
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4597
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4599
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:4602
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:4605
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:4610
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4629
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:4612
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:4631
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4635
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4656
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:4637
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:4659
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4663
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4665
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4661
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:4667
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:4670
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4672
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 2.500000
+
+Data: 27/11/2022 23:23:2:4608
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Aluminio
+
+Data: 27/11/2022 23:23:2:4675
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4678
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 2.500000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:4682
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:4685
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4706
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:4687
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:4709
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4711
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4746
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:4713
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:4753
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4758
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4760
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4756
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:4762
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:4765
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4767
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:4684
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Aluminio
+
+Data: 27/11/2022 23:23:2:4772
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4794
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4796
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:4798
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:4801
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:4805
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4827
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:4807
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:4829
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4831
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4847
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:4833
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:4849
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4853
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4855
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4851
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:4858
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:4861
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4863
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 20.000000
+Info Alterada, depois: qtd_atual_: 200.000000
+
+Data: 27/11/2022 23:23:2:4804
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Parafuso
+
+Data: 27/11/2022 23:23:2:4867
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4869
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 200.000000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:4873
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:4876
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4897
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:4878
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:4901
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4903
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4919
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:4905
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:4922
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:4925
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4927
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:4924
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:4929
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:4932
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:4935
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 20.000000
+
+Data: 27/11/2022 23:23:2:4875
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Parafuso
+
+Data: 27/11/2022 23:23:2:4939
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:4941
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:4944
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:4948
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4952
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:4955
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:4155
+Usuario: Fenomeno
+Entidade: Produto
+Info Alterada, antes: Qtd produto: 20; 1 - Lote Ativo: 3085; 
+Info Alterada, depois: Qtd produto: 45; 1 - Lote Ativo: 3085; 1 - Lote Ativo: 177; 
+
+Data: 27/11/2022 23:23:2:4960
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Data Producao
+
+Data: 27/11/2022 23:23:2:4963
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:4966
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Alterada, antes: Prod_alvo: Vazio; Data_ordem: Vazio; Codigo: Vazio; Quantidade Produzida: Vazio;
+Info Alterada, depois: Prod_alvo: Mesa; Data_ordem: 27/11/2022 23:23:2:4007; Codigo: 463;Quantidade Produzida:25;
+
+Data: 27/11/2022 23:23:2:4977
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:4980
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:4983
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:4986
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:5028
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:5035
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:5039
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:5042
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:4974
+Usuario: Fenomeno
+Entidade: Produto
+Info Alterada, antes: - Ordem Producao: 461; - Ordem Producao: 462; 
+Info Alterada, depois:  - Ordem Producao: 461;  - Ordem Producao: 462;  - Ordem Producao: 463; 
+
+Data: 27/11/2022 23:23:2:5047
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5083
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5087
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:5089
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:5094
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:5099
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5114
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:5101
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:5117
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5120
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5141
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:5122
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:5143
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5147
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5149
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5146
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:5153
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:5156
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5158
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 11.250000
+
+Data: 27/11/2022 23:23:2:5097
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Madeira
+
+Data: 27/11/2022 23:23:2:5163
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5165
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 11.250000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:5169
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:5172
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5193
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:5174
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:5199
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5201
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5217
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:5203
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:5219
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5223
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5225
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5221
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:5227
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:5229
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5232
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:5171
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Madeira
+
+Data: 27/11/2022 23:23:2:5236
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5261
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5263
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:5265
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:5267
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:5271
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5286
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:5272
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:5289
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5292
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5313
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:5294
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:5316
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5322
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5324
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5320
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:5327
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:5331
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5334
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 3.750000
+
+Data: 27/11/2022 23:23:2:5269
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Plastico
+
+Data: 27/11/2022 23:23:2:5338
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5342
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 3.750000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:5346
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:5349
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5372
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:5351
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:5375
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5378
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5399
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:5380
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Plastico
+
+Data: 27/11/2022 23:23:2:5402
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5409
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5412
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5407
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:5415
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:5418
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5421
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:5348
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Plastico
+
+Data: 27/11/2022 23:23:2:5426
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5462
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5466
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:5468
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:5473
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:5477
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5494
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:5479
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:5497
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5500
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5522
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:5502
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:5524
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5528
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5530
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5526
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:5534
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:5538
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5540
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 2.500000
+
+Data: 27/11/2022 23:23:2:5475
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Aluminio
+
+Data: 27/11/2022 23:23:2:5544
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5546
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 2.500000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:5549
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:5553
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5574
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:5555
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:5578
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5580
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5595
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:5582
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Aluminio
+
+Data: 27/11/2022 23:23:2:5598
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5602
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5603
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5600
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:5606
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:5608
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5610
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 1.000000
+
+Data: 27/11/2022 23:23:2:5551
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Aluminio
+
+Data: 27/11/2022 23:23:2:5615
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5636
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5638
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:5640
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:5642
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:5645
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5661
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:5647
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:5663
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5665
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5687
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:5668
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:5690
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5694
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5696
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5692
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:5698
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:5701
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5703
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 20.000000
+Info Alterada, depois: qtd_atual_: 200.000000
+
+Data: 27/11/2022 23:23:2:5644
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Parafuso
+
+Data: 27/11/2022 23:23:2:5707
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5711
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 200.000000
+Info Alterada, depois: qtd_atual_: 0.000000
+
+Data: 27/11/2022 23:23:2:5715
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:5739
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5764
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:5742
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:5768
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5771
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5790
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:5774
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Parafuso
+
+Data: 27/11/2022 23:23:2:5793
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:5806
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5808
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:5802
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:5810
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:5814
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:5815
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 0.000000
+Info Alterada, depois: qtd_atual_: 20.000000
+
+Data: 27/11/2022 23:23:2:5735
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Parafuso
+
+Data: 27/11/2022 23:23:2:5822
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5824
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5826
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5827
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5831
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5834
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5839
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Quantidade Produzida
+
+Data: 27/11/2022 23:23:2:5842
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5844
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5846
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:4958
+Usuario: Fenomeno
+Entidade: Produto
+Info Alterada, antes: Qtd produto: 45; 1 - Lote Ativo: 3085; 1 - Lote Ativo: 177; 
+Info Alterada, depois: Qtd produto: 70; 1 - Lote Ativo: 3085; 1 - Lote Ativo: 177; 1 - Lote Ativo: 312; 
+
+Data: 27/11/2022 23:23:2:5888
+Usuario: Fenomeno
+Entidade: Categoria
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:5893
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: categoria
+
+Data: 27/11/2022 23:23:2:5898
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Nome
+
+Data: 27/11/2022 23:23:2:5900
+Usuario: Fenomeno
+Entidade: Categoria
+Info Acessada: produto
+
+Data: 27/11/2022 23:23:2:5903
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: LotesAtivos
+
+Data: 27/11/2022 23:23:2:5929
+Usuario: Fenomeno
+Entidade: Categoria
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:5934
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: categoria
+
+Data: 27/11/2022 23:23:2:5936
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Nome
+
+Data: 27/11/2022 23:23:2:5938
+Usuario: Fenomeno
+Entidade: Categoria
+Info Acessada: produto
+
+Data: 27/11/2022 23:23:2:5943
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: LotesAtivos
+
+Data: 27/11/2022 23:23:2:5946
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5949
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:2:5971
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:5975
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:2:6008
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: Numero Lote
+
+Data: 27/11/2022 23:23:2:6013
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:2:6024
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:2:6032
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:6036
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:6046
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6073
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:6077
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:6081
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6087
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:6092
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:6094
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6114
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:6118
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:6123
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6147
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6149
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: ordem compra construida
+
+Data: 27/11/2022 23:23:2:6153
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:6169
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Nike
+
+Data: 27/11/2022 23:23:2:6155
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:6172
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:6180
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:6201
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: orcamento construido para Adidas
+
+Data: 27/11/2022 23:23:2:6182
+Usuario: Fenomeno
+Entidade: Fornecedor
+Info Alterada, antes: 
+Info Alterada, depois: orcamento gerado para Madeira
+
+Data: 27/11/2022 23:23:2:6203
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: orcamento adicionado
+
+Data: 27/11/2022 23:23:2:6207
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:6209
+Usuario: Fenomeno
+Entidade: OrcamentoMateriaPrima
+Info Acessada: getPreco
+
+Data: 27/11/2022 23:23:2:6205
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Alterada, antes: 
+Info Alterada, depois: melhor orcamento escolhido
+
+Data: 27/11/2022 23:23:2:6211
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getDataOrdem
+
+Data: 27/11/2022 23:23:2:6215
+Usuario: Fenomeno
+Entidade: OrdemCompra
+Info Acessada: getQtdComprada
+
+Data: 27/11/2022 23:23:2:6217
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: qtd_atual_: 1.000000
+Info Alterada, depois: qtd_atual_: 31.000000
+
+Data: 27/11/2022 23:23:2:6152
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Alterada, antes: 
+Info Alterada, depois: ordem de compra adicionada para Madeira
+
+Data: 27/11/2022 23:23:2:6243
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:6249
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:6253
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6275
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:6279
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:6283
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6311
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:6316
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:6320
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6325
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getNome
+
+Data: 27/11/2022 23:23:2:6327
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getQtdAtual
+
+Data: 27/11/2022 23:23:2:6330
+Usuario: Fenomeno
+Entidade: MateriaPrima
+Info Acessada: getUnidadeMedida
+
+Data: 27/11/2022 23:23:2:6351
+Usuario: Fenomeno
+Entidade: Empresa
+Info Acessada: Estoque
+
+Data: 27/11/2022 23:23:2:6355
+Usuario: Fenomeno
+Entidade: Categoria
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:2:6357
+Usuario: Fenomeno
+Entidade: Estoque
+Info Acessada: categoria
+
+Data: 27/11/2022 23:23:2:6369
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Nome
+
+Data: 27/11/2022 23:23:2:6371
+Usuario: Fenomeno
+Entidade: Categoria
+Info Acessada: produto
+
+Data: 27/11/2022 23:23:2:6374
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Ordem Producao
+
+Data: 27/11/2022 23:23:2:6398
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:6423
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: prod_alvo
+
+Data: 27/11/2022 23:23:2:6447
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:6479
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: qtd_produzida
+
+Data: 27/11/2022 23:23:2:6491
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:6497
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: prod_alvo
+
+Data: 27/11/2022 23:23:2:6523
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:6555
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: qtd_produzida
+
+Data: 27/11/2022 23:23:2:6585
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: codigo
+
+Data: 27/11/2022 23:23:2:6591
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: prod_alvo
+
+Data: 27/11/2022 23:23:2:6595
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: data_ordem
+
+Data: 27/11/2022 23:23:2:6602
+Usuario: Fenomeno
+Entidade: OrdemProducao
+Info Acessada: qtd_produzida
+
+Data: 27/11/2022 23:23:2:6611
+Usuario: Fenomeno
+Entidade: Departamento
+Info Acessada: Funcionarios do Departamento
+
+Data: 27/11/2022 23:23:2:6636
+Usuario: Fenomeno
+Entidade: Empresa
+Info Restringida: Demissao
+
+Data: 27/11/2022 23:23:2:6688
+Usuario: Fenomeno
+Entidade: Departamento
+Info Acessada: Funcionarios do Departamento
+
+Data: 27/11/2022 23:23:2:6760
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: preco_venda
+
+Data: 27/11/2022 23:23:2:6763
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:2:6765
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Nome
+
+Data: 27/11/2022 23:23:2:6755
+Usuario: Fenomeno
+Entidade: Orcamento_Orcamento
+Info Alterada, antes: Vazio
+Info Alterada, depois: Construido{Mesa, }
+
+Data: 27/11/2022 23:23:2:6773
+Usuario: Fenomeno
+Entidade: Orcamento_getCodigo
+Info Acessada: codigo_
+
+Data: 27/11/2022 23:23:2:6768
+Usuario: Fenomeno
+Entidade: Cliente_addOrcamento
+Info Alterada, antes: orcamentos_ {}; 
+Info Alterada, depois: orcamentos_ {0:4080; }; 
+
+Data: 27/11/2022 23:23:2:6777
+Usuario: Fenomeno
+Entidade: Cliente_getOrcamento
+Info Acessada: orcamento_
+
+Data: 27/11/2022 23:23:2:6778
+Usuario: Fenomeno
+Entidade: Orcamento_getCodigo
+Info Acessada: codigo_
+
+Data: 27/11/2022 23:23:2:6811
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Nome
+
+Data: 27/11/2022 23:23:2:6817
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: preco_venda
+
+Data: 27/11/2022 23:23:2:6820
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:2:6844
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: preco_venda
+
+Data: 27/11/2022 23:23:2:6848
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:2:6852
+Usuario: Fenomeno
+Entidade: Preco
+Info Alterada, antes: Data_alteracao: Vazio; Novo_valor: Vazio;
+Info Alterada, depois: Data_alteracao: 27/11/2022 23:23:2:6851; Novo_valor: 1575.000000;
+
+Data: 27/11/2022 23:23:2:6861
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:2:6866
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:2:6868
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:2:6871
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: preco_venda
+
+Data: 27/11/2022 23:23:2:6873
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:2:6896
+Usuario: Fenomeno
+Entidade: Orcamento_precoTotal
+Info Acessada: produtos_
+
+Data: 27/11/2022 23:23:2:6901
+Usuario: Fenomeno
+Entidade: CartaoCredito_CartaoCredito
+Info Alterada, antes: Vazio;
+Info Alterada, depois: Construido
+
+Data: 27/11/2022 23:23:2:6922
+Usuario: Fenomeno
+Entidade: Cliente_getNome
+Info Acessada: nome_
+
+Data: 27/11/2022 23:23:2:6928
+Usuario: Fenomeno
+Entidade: PedidoCompra_PedidoCompra
+Info Acessada: Construcao de Pedido Compra para cod775 e cliente: Clube de Regatas Flamengo
+
+Data: 27/11/2022 23:23:2:6932
+Usuario: Fenomeno
+Entidade: Orcamento_getCodigo
+Info Acessada: codigo_
+
+Data: 27/11/2022 23:23:2:6937
+Usuario: Fenomeno
+Entidade: Orcamento_getCodigo
+Info Acessada: codigo_
+
+Data: 27/11/2022 23:23:2:6940
+Usuario: Fenomeno
+Entidade: Orcamento_getCodigo
+Info Acessada: codigo_
+
+Data: 27/11/2022 23:23:2:6930
+Usuario: Fenomeno
+Entidade: Cliente_addOrcamento
+Info Alterada, antes: orcamentos_ {0:4080; }; 
+Info Alterada, depois: orcamentos_ {0:4080; 1:4080; }; 
+
+Data: 27/11/2022 23:23:2:6944
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: preco_venda
+
+Data: 27/11/2022 23:23:2:6947
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:4:7081
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: preco_venda
+
+Data: 27/11/2022 23:23:4:7096
+Usuario: Fenomeno
+Entidade: Preco
+Info Acessada: Novo Valor
+
+Data: 27/11/2022 23:23:4:7098
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Nome
+
+Data: 27/11/2022 23:23:4:7072
+Usuario: Fenomeno
+Entidade: Orcamento_Orcamento
+Info Alterada, antes: Vazio
+Info Alterada, depois: Construido{Mesa, }
+
+Data: 27/11/2022 23:23:4:7102
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: LotesAtivos
+
+Data: 27/11/2022 23:23:4:7107
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7109
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7111
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7113
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7115
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7117
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7119
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7120
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7122
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7124
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7126
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7129
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7135
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7137
+Usuario: Fenomeno
+Entidade: Lote
+Info Acessada: qtd_atual
+
+Data: 27/11/2022 23:23:4:7139
+Usuario: Fenomeno
+Entidade: Produto
+Info Acessada: Nome
+
+Data: 27/11/2022 23:23:4:7144
+Usuario: Fenomeno
+Entidade: Venda_Venda
+Info Alterada, antes: Vazio
+Info Alterada, depois: Construido 
+
+Data: 27/11/2022 23:23:4:7149
+Usuario: Fenomeno
+Entidade: Venda_getCodigo
+Info Acessada: codigo_
+
+Data: 27/11/2022 23:23:2:6943
+Usuario: Fenomeno
+Entidade: PedidoCompra_gerarVenda
+Info Alterada, antes: Qtd Lote: 20;Venda: Vazio; 
+Info Alterada, depois: Qtd Lote: 9;Venda: 0; 
+
+Data: 27/11/2022 23:23:4:7159
+Usuario: Fenomeno
+Entidade: PedidoCompra_getCodigo
+Info Acessada: codigo_
+
+Data: 27/11/2022 23:23:4:7154
+Usuario: Fenomeno
+Entidade: Empresa
+Info Alterada, antes: Pedido Compra: Vazio
+Info Alterada, depois: 1 - Pedido Compra: 775; 
+
+Data: 27/11/2022 23:23:4:7192
+Usuario: Fenomeno
+Entidade: PedidoCompra_getVenda
+Info Acessada: venda_
+
+Data: 27/11/2022 23:23:4:7196
+Usuario: Fenomeno
+Entidade: PedidoCompra_getOrcamento
+Info Acessada: orcamento_
+
+Data: 27/11/2022 23:23:4:7199
+Usuario: Fenomeno
+Entidade: PedidoCompra_getCodigo
+Info Acessada: codigo_
+
+Data: 27/11/2022 23:23:4:7231
+Usuario: Fenomeno
+Entidade: PedidoCompra_getCliente
+Info Acessada: cliente_
+
+Data: 27/11/2022 23:23:4:7277
+Usuario: Fenomeno
+Entidade: Orcamento_qtdTotalProdutos
+Info Acessada: produtos_
+
+Data: 27/11/2022 23:23:4:7303
+Usuario: Fenomeno
+Entidade: Orcamento_precoTotal
+Info Acessada: produtos_
+
+Data: 27/11/2022 23:23:4:7345
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 8; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7350
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 13; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7353
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7356
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7360
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7362
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7364
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7367
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7369
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7374
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7358
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Alterada, antes: Turno: Vazio; Turno: Vazio; Segundo: Vazio;
+Info Alterada, depois: Turno: manha; Inicio: 8:0:0
+
+Data: 27/11/2022 23:23:4:7377
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7379
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 0; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7383
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: CEP
+
+Data: 27/11/2022 23:23:4:7385
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: turno
+
+Data: 27/11/2022 23:23:4:7381
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Alterada, antes: Placa: Vazio; Capacidade: Vazio; Turno: Vazio; Local_Saida: Vazio;
+Info Alterada, depois: Placa: HEXA2022; Capacidade: 20; Turno: manha; Local_Saida: 31275000
+
+Data: 27/11/2022 23:23:4:7392
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 10; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7395
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: inicio
+
+Data: 27/11/2022 23:23:4:7397
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7401
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7404
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7408
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7411
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 50; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7414
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7416
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7418
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 0.000000
+
+Data: 27/11/2022 23:23:4:7422
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:7424
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7426
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: distancia
+
+Data: 27/11/2022 23:23:4:7441
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 9; Segundo: 59
+
+Data: 27/11/2022 23:23:4:7444
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7447
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 9; Segundo: 59
+Info Alterada, depois: Horas: 0.166389
+
+Data: 27/11/2022 23:23:4:7450
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7453
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 9; Segundo: 59
+Info Alterada, depois: Horas: 0.166389
+
+Data: 27/11/2022 23:23:4:7456
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 40; Segundo: 1
+
+Data: 27/11/2022 23:23:4:7461
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 0.000000
+
+Data: 27/11/2022 23:23:4:7463
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 40; Segundo: 1
+Info Alterada, depois: Horas: 7.666945
+
+Data: 27/11/2022 23:23:4:7466
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7468
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7470
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7459
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Embarque: Vazio
+Info Alterada, depois: Embarque: 7:40:1
+
+Data: 27/11/2022 23:23:4:7473
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7475
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 40; Segundo: 1
+Info Alterada, depois: Horas: 7.666945
+
+Data: 27/11/2022 23:23:4:7478
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 9; Segundo: 59
+Info Alterada, depois: Horas: 0.166389
+
+Data: 27/11/2022 23:23:4:7480
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 40; Segundo: 1
+Info Alterada, depois: Horas: 7.666945
+
+Data: 27/11/2022 23:23:4:7493
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 9; Segundo: 59
+Info Alterada, depois: Horas: 0.166389
+
+Data: 27/11/2022 23:23:4:7496
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 30; Segundo: 1
+
+Data: 27/11/2022 23:23:4:7498
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7501
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 30; Segundo: 1
+Info Alterada, depois: Horas: 7.500278
+
+Data: 27/11/2022 23:23:4:7504
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7507
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 30; Segundo: 1
+Info Alterada, depois: Horas: 7.500278
+
+Data: 27/11/2022 23:23:4:7510
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 19; Segundo: 59
+
+Data: 27/11/2022 23:23:4:7512
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7514
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 40; Segundo: 1
+Info Alterada, depois: Horas: 7.666945
+
+Data: 27/11/2022 23:23:4:7391
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Alterada, antes: Passageiro 1:0.000000; 
+Info Alterada, depois: Passageiro 1:7.666945; 
+
+Data: 27/11/2022 23:23:4:7520
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: turno
+
+Data: 27/11/2022 23:23:4:7518
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Jornada: Vazio
+Info Alterada, depois: Jornada:manha
+
+Data: 27/11/2022 23:23:4:7523
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:7388
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Alterada, antes: 
+Info Alterada, depois: Passageiro 1:Vini Jr; 
+
+Data: 27/11/2022 23:23:4:7528
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:7532
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 10; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7535
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: inicio
+
+Data: 27/11/2022 23:23:4:7536
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7539
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7542
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7545
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7548
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 50; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7550
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7552
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7555
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 40; Segundo: 1
+Info Alterada, depois: Horas: 7.666945
+
+Data: 27/11/2022 23:23:4:7559
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7560
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 0.000000
+
+Data: 27/11/2022 23:23:4:7564
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:7566
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7568
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: distancia
+
+Data: 27/11/2022 23:23:4:7570
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 11; Segundo: 17
+
+Data: 27/11/2022 23:23:4:7572
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7575
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 11; Segundo: 17
+Info Alterada, depois: Horas: 0.188056
+
+Data: 27/11/2022 23:23:4:7578
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7581
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 11; Segundo: 17
+Info Alterada, depois: Horas: 0.188056
+
+Data: 27/11/2022 23:23:4:7588
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 38; Segundo: 43
+
+Data: 27/11/2022 23:23:4:7592
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 0.000000
+
+Data: 27/11/2022 23:23:4:7595
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 38; Segundo: 43
+Info Alterada, depois: Horas: 7.645278
+
+Data: 27/11/2022 23:23:4:7598
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7600
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7602
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7590
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Embarque: Vazio
+Info Alterada, depois: Embarque: 7:38:43
+
+Data: 27/11/2022 23:23:4:7604
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7607
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 11; Segundo: 17
+Info Alterada, depois: Horas: 0.188056
+
+Data: 27/11/2022 23:23:4:7610
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7613
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 11; Segundo: 17
+Info Alterada, depois: Horas: 0.188056
+
+Data: 27/11/2022 23:23:4:7616
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 38; Segundo: 43
+
+Data: 27/11/2022 23:23:4:7618
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:7620
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7622
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: distancia
+
+Data: 27/11/2022 23:23:4:7624
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 14; Segundo: 37
+
+Data: 27/11/2022 23:23:4:7627
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 38; Segundo: 43
+Info Alterada, depois: Horas: 7.645278
+
+Data: 27/11/2022 23:23:4:7630
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 14; Segundo: 37
+Info Alterada, depois: Horas: 0.243611
+
+Data: 27/11/2022 23:23:4:7633
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 38; Segundo: 43
+Info Alterada, depois: Horas: 7.645278
+
+Data: 27/11/2022 23:23:4:7635
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 14; Segundo: 37
+Info Alterada, depois: Horas: 0.243611
+
+Data: 27/11/2022 23:23:4:7638
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 24; Segundo: 5
+
+Data: 27/11/2022 23:23:4:7642
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 40; Segundo: 1
+Info Alterada, depois: Horas: 7.666945
+
+Data: 27/11/2022 23:23:4:7645
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7647
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7649
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7652
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 24; Segundo: 5
+Info Alterada, depois: Horas: 7.401389
+
+Data: 27/11/2022 23:23:4:7655
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7658
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7660
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7641
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Embarque: 7:40:1
+Info Alterada, depois: Embarque: 7:24:5
+
+Data: 27/11/2022 23:23:4:7662
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7664
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:7666
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7668
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: distancia
+
+Data: 27/11/2022 23:23:4:7670
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 24; Segundo: 36
+
+Data: 27/11/2022 23:23:4:7672
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7674
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 38; Segundo: 43
+Info Alterada, depois: Horas: 7.645278
+
+Data: 27/11/2022 23:23:4:7677
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 24; Segundo: 36
+Info Alterada, depois: Horas: 0.410000
+
+Data: 27/11/2022 23:23:4:7680
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 38; Segundo: 43
+Info Alterada, depois: Horas: 7.645278
+
+Data: 27/11/2022 23:23:4:7682
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 24; Segundo: 36
+Info Alterada, depois: Horas: 0.410000
+
+Data: 27/11/2022 23:23:4:7686
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 14; Segundo: 7
+
+Data: 27/11/2022 23:23:4:7689
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: inicio
+
+Data: 27/11/2022 23:23:4:7691
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7694
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7696
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7699
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7702
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 50; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7705
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7707
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 14; Segundo: 7
+Info Alterada, depois: Horas: 7.235278
+
+Data: 27/11/2022 23:23:4:7710
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7714
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 14; Segundo: 7
+Info Alterada, depois: Horas: 7.235278
+
+Data: 27/11/2022 23:23:4:7719
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 35; Segundo: 53
+
+Data: 27/11/2022 23:23:4:7722
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7724
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 24; Segundo: 5
+Info Alterada, depois: Horas: 7.401389
+
+Data: 27/11/2022 23:23:4:7727
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7729
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 38; Segundo: 43
+Info Alterada, depois: Horas: 7.645278
+
+Data: 27/11/2022 23:23:4:7530
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Alterada, antes: Passageiro 1:7.666945; Passageiro 2:0.000000; 
+Info Alterada, depois: Passageiro 1:7.401389; Passageiro 2:7.645278; 
+
+Data: 27/11/2022 23:23:4:7735
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: turno
+
+Data: 27/11/2022 23:23:4:7733
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Jornada: Vazio
+Info Alterada, depois: Jornada:manha
+
+Data: 27/11/2022 23:23:4:7737
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:7739
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:7526
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Alterada, antes: Passageiro 1:Vini Jr; 
+Info Alterada, depois: Passageiro 1:Vini Jr; Passageiro 2:Richarlison; 
+
+Data: 27/11/2022 23:23:4:7744
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:7747
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:7751
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 10; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7753
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: inicio
+
+Data: 27/11/2022 23:23:4:7755
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7758
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7761
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7764
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7767
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 50; Segundo: 0
+
+Data: 27/11/2022 23:23:4:7769
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7771
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7773
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 24; Segundo: 5
+Info Alterada, depois: Horas: 7.401389
+
+Data: 27/11/2022 23:23:4:7776
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7778
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 38; Segundo: 43
+Info Alterada, depois: Horas: 7.645278
+
+Data: 27/11/2022 23:23:4:7783
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7785
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 0.000000
+
+Data: 27/11/2022 23:23:4:7788
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:7790
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7792
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: distancia
+
+Data: 27/11/2022 23:23:4:7794
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 15; Segundo: 33
+
+Data: 27/11/2022 23:23:4:7797
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7799
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 15; Segundo: 33
+Info Alterada, depois: Horas: 0.259167
+
+Data: 27/11/2022 23:23:4:7802
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7805
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 15; Segundo: 33
+Info Alterada, depois: Horas: 0.259167
+
+Data: 27/11/2022 23:23:4:7808
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 34; Segundo: 27
+
+Data: 27/11/2022 23:23:4:7812
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 0.000000
+
+Data: 27/11/2022 23:23:4:7816
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 34; Segundo: 27
+Info Alterada, depois: Horas: 7.574167
+
+Data: 27/11/2022 23:23:4:7819
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7821
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7823
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7810
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Embarque: Vazio
+Info Alterada, depois: Embarque: 7:34:27
+
+Data: 27/11/2022 23:23:4:7825
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7828
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 15; Segundo: 33
+Info Alterada, depois: Horas: 0.259167
+
+Data: 27/11/2022 23:23:4:7831
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:7834
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 15; Segundo: 33
+Info Alterada, depois: Horas: 0.259167
+
+Data: 27/11/2022 23:23:4:7836
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 34; Segundo: 27
+
+Data: 27/11/2022 23:23:4:7839
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:7841
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7843
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: distancia
+
+Data: 27/11/2022 23:23:4:7846
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 24; Segundo: 33
+
+Data: 27/11/2022 23:23:4:7848
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 34; Segundo: 27
+Info Alterada, depois: Horas: 7.574167
+
+Data: 27/11/2022 23:23:4:7851
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 24; Segundo: 33
+Info Alterada, depois: Horas: 0.409167
+
+Data: 27/11/2022 23:23:4:7854
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 34; Segundo: 27
+Info Alterada, depois: Horas: 7.574167
+
+Data: 27/11/2022 23:23:4:7857
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 24; Segundo: 33
+Info Alterada, depois: Horas: 0.409167
+
+Data: 27/11/2022 23:23:4:7860
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 9; Segundo: 53
+
+Data: 27/11/2022 23:23:4:7864
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 38; Segundo: 43
+Info Alterada, depois: Horas: 7.645278
+
+Data: 27/11/2022 23:23:4:7867
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7869
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7871
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7873
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 9; Segundo: 53
+Info Alterada, depois: Horas: 7.164722
+
+Data: 27/11/2022 23:23:4:7876
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7879
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7881
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7862
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Embarque: 7:38:43
+Info Alterada, depois: Embarque: 7:9:53
+
+Data: 27/11/2022 23:23:4:7883
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 34; Segundo: 27
+Info Alterada, depois: Horas: 7.574167
+
+Data: 27/11/2022 23:23:4:7886
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 24; Segundo: 33
+Info Alterada, depois: Horas: 0.409167
+
+Data: 27/11/2022 23:23:4:7889
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 34; Segundo: 27
+Info Alterada, depois: Horas: 7.574167
+
+Data: 27/11/2022 23:23:4:7892
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 24; Segundo: 33
+Info Alterada, depois: Horas: 0.409167
+
+Data: 27/11/2022 23:23:4:7895
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 9; Segundo: 53
+
+Data: 27/11/2022 23:23:4:7897
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:7899
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7901
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: distancia
+
+Data: 27/11/2022 23:23:4:7903
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 14; Segundo: 37
+
+Data: 27/11/2022 23:23:4:7905
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 9; Segundo: 53
+Info Alterada, depois: Horas: 7.164722
+
+Data: 27/11/2022 23:23:4:7922
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 14; Segundo: 37
+Info Alterada, depois: Horas: 0.243611
+
+Data: 27/11/2022 23:23:4:7928
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 9; Segundo: 53
+Info Alterada, depois: Horas: 7.164722
+
+Data: 27/11/2022 23:23:4:7931
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 14; Segundo: 37
+Info Alterada, depois: Horas: 0.243611
+
+Data: 27/11/2022 23:23:4:7934
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 6; Minuto: 55; Segundo: 15
+
+Data: 27/11/2022 23:23:4:7938
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 24; Segundo: 5
+Info Alterada, depois: Horas: 7.401389
+
+Data: 27/11/2022 23:23:4:7941
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7943
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7946
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7948
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 6; Minuto: 55; Segundo: 15
+Info Alterada, depois: Horas: 6.920834
+
+Data: 27/11/2022 23:23:4:7951
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:7953
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:7955
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:7937
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Embarque: 7:24:5
+Info Alterada, depois: Embarque: 6:55:15
+
+Data: 27/11/2022 23:23:4:7960
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7962
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:7964
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:7965
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: distancia
+
+Data: 27/11/2022 23:23:4:7967
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 0; Minuto: 24; Segundo: 36
+
+Data: 27/11/2022 23:23:4:7970
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:7972
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 9; Segundo: 53
+Info Alterada, depois: Horas: 7.164722
+
+Data: 27/11/2022 23:23:4:7975
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 24; Segundo: 36
+Info Alterada, depois: Horas: 0.410000
+
+Data: 27/11/2022 23:23:4:7978
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 9; Segundo: 53
+Info Alterada, depois: Horas: 7.164722
+
+Data: 27/11/2022 23:23:4:7980
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 24; Segundo: 36
+Info Alterada, depois: Horas: 0.410000
+
+Data: 27/11/2022 23:23:4:7983
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 6; Minuto: 45; Segundo: 17
+
+Data: 27/11/2022 23:23:4:7986
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: inicio
+
+Data: 27/11/2022 23:23:4:7989
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7992
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:7994
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 8; Minuto: 0; Segundo: 0
+Info Alterada, depois: Horas: 8.000000
+
+Data: 27/11/2022 23:23:4:7997
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 0; Minuto: 10; Segundo: 0
+Info Alterada, depois: Horas: 0.166667
+
+Data: 27/11/2022 23:23:4:8000
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 7; Minuto: 50; Segundo: 0
+
+Data: 27/11/2022 23:23:4:8003
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:8005
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 6; Minuto: 45; Segundo: 17
+Info Alterada, depois: Horas: 6.754722
+
+Data: 27/11/2022 23:23:4:8008
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 50; Segundo: 0
+Info Alterada, depois: Horas: 7.833333
+
+Data: 27/11/2022 23:23:4:8011
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 6; Minuto: 45; Segundo: 17
+Info Alterada, depois: Horas: 6.754722
+
+Data: 27/11/2022 23:23:4:8014
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: Vazio; Minuto: Vazio; Segundo: Vazio;
+Info Alterada, depois: Hora: 1; Minuto: 4; Segundo: 43
+
+Data: 27/11/2022 23:23:4:8016
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:8019
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 6; Minuto: 55; Segundo: 15
+Info Alterada, depois: Horas: 6.920834
+
+Data: 27/11/2022 23:23:4:8023
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:8025
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 9; Segundo: 53
+Info Alterada, depois: Horas: 7.164722
+
+Data: 27/11/2022 23:23:4:8028
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:8030
+Usuario: Fenomeno
+Entidade: Horario
+Info Alterada, antes: Hora: 7; Minuto: 34; Segundo: 27
+Info Alterada, depois: Horas: 7.574167
+
+Data: 27/11/2022 23:23:4:7749
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Alterada, antes: Passageiro 1:7.401389; Passageiro 2:7.645278; Passageiro 3:0.000000; 
+Info Alterada, depois: Passageiro 1:6.920834; Passageiro 2:7.164722; Passageiro 3:7.574167; 
+
+Data: 27/11/2022 23:23:4:8035
+Usuario: Fenomeno
+Entidade: JornadaTrabalho
+Info Acessada: turno
+
+Data: 27/11/2022 23:23:4:8034
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Alterada, antes: Jornada: Vazio
+Info Alterada, depois: Jornada:manha
+
+Data: 27/11/2022 23:23:4:8038
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:8040
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:8042
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:7742
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Alterada, antes: Passageiro 1:Vini Jr; Passageiro 2:Richarlison; 
+Info Alterada, depois: Passageiro 1:Vini Jr; Passageiro 2:Richarlison; Passageiro 3:Antony; 
+
+Data: 27/11/2022 23:23:4:8045
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: Rota
+
+Data: 27/11/2022 23:23:4:8076
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:8082
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:8084
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:8088
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:8090
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:8116
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:8120
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:8122
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:8126
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:8128
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:8150
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:8154
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:8156
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:8160
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: Endereco
+
+Data: 27/11/2022 23:23:4:8162
+Usuario: Fenomeno
+Entidade: Endereco
+Info Acessada: lat_long
+
+Data: 27/11/2022 23:23:4:8193
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:8197
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:8200
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: segundo
+
+Data: 27/11/2022 23:23:4:8203
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: hora
+
+Data: 27/11/2022 23:23:4:8205
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: minuto
+
+Data: 27/11/2022 23:23:4:8225
+Usuario: Fenomeno
+Entidade: Veiculo
+Info Acessada: HorariosEmbarque
+
+Data: 27/11/2022 23:23:4:8232
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:8234
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:8236
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: Horario
+
+Data: 27/11/2022 23:23:4:8257
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:8261
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:8263
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: Horario
+
+Data: 27/11/2022 23:23:4:8268
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: nome
+
+Data: 27/11/2022 23:23:4:8270
+Usuario: Fenomeno
+Entidade: Funcionario
+Info Acessada: embarque
+
+Data: 27/11/2022 23:23:4:8271
+Usuario: Fenomeno
+Entidade: Horario
+Info Acessada: Horario
+
