@@ -1,11 +1,11 @@
 Este trabalho foi desenvolvido por:
 
-- Alexandre Magno Gonçalves Amorim - Matrícula: 201801477
+- Alexandre Magno 
 
-- Ana Paula Amorim Almeida - Matrícula: 2021070888
+- Ana Paula Amorim
 
-- Gustavo Pimentel Carvalho Costa - Matrícula: 2021019335
+- Gustavo Pimentel 
 
-- Pedro Lucas Gomes Sousa - Matrícula: 2021013701
+- Pedro Lucas Gomes
 
-- Ravi Hector Lopes Jericó Vieira - Matrícula: 2021013604
+- Ravi Hector Lopes
